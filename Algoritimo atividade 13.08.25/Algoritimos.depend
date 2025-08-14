@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1755129946 source:c:\workspace\codeblocks\algoritimos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
